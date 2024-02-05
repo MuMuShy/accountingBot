@@ -1,0 +1,40 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+*.pyc
+
+# IDE
+.vscode/
+*.idea/
+
+# Logs
+*.log
+
+# Dependencies
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Python env
+*.env
+*.venv
+
+# Others
+.DS_Store
+
+# Virtual Environment
+venv/
+openai-env/
+*.pyc
+*.pyo
+*.pyd
+.env
